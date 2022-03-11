@@ -272,7 +272,7 @@ msgid "Audio seek bar"
 msgstr ""
 
 #. Do not translate words between ### ###.
-#: src/components/VAudioTrack/VWaveform.vue:573
+#: src/components/VAudioTrack/VWaveform.vue:577
 msgctxt "waveform.current-time"
 msgid "###time### second"
 msgid_plural "###time### seconds"
